@@ -11,14 +11,14 @@ const Footer: React.FC = () => {
           <div className="flex justify-between items-center w-full">
             <div className="flex items-center space-x-4">
               <img 
-                src="/lovable-uploads/3ba90148-7435-4bbb-867b-1bcaa3572b07.png" 
+                src="/lovable-uploads/7d48929d-f019-46e1-8bf0-ee22120147df.png" 
                 alt="Creator Logo" 
                 className="w-32 h-auto"
               />
             </div>
             
             <div className="text-sm text-gray-600 font-medium">
-              Created by Ayman Mahmod
+              Created by Mahmoud Ayman
             </div>
           </div>
           
